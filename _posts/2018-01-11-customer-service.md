@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Inc"
+title:  "Inc 2"
 author: john
 categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
